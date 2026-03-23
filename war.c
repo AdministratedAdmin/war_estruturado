@@ -29,5 +29,11 @@ int main() {
         printf("\n Território %d: %s | Ocupado com %d tropas pelo exército %s \n", i + 1, vetor[i].nome, vetor[i].numero_de_tropas, vetor[i].cor_do_exercito);
     }
 
+
+
+
+    
+
+
     return 0;
 }
